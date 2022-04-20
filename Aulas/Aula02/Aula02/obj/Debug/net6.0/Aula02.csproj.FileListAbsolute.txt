@@ -1,0 +1,15 @@
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.csproj.AssemblyReference.cache
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfoInputs.cache
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfo.cs
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\Aula02\Aula02\bin\Debug\net6.0\Aula02.exe
+D:\C#\Aulas\Aula02\Aula02\bin\Debug\net6.0\Aula02.deps.json
+D:\C#\Aulas\Aula02\Aula02\bin\Debug\net6.0\Aula02.runtimeconfig.json
+D:\C#\Aulas\Aula02\Aula02\bin\Debug\net6.0\Aula02.dll
+D:\C#\Aulas\Aula02\Aula02\bin\Debug\net6.0\Aula02.pdb
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.dll
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\refint\Aula02.dll
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.pdb
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\Aula02.genruntimeconfig.cache
+D:\C#\Aulas\Aula02\Aula02\obj\Debug\net6.0\ref\Aula02.dll
