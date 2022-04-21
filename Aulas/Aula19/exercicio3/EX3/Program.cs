@@ -1,12 +1,19 @@
 ﻿using System;
-class Exercicio3
+class Exercicio3 //CALCULO MÉDIA DOS ALUNOS
 {
     static void Main()
     {
-        string[] nomes = new string[3]; int[] n1 = new int[3]; int[] n2 = new int[3]; int[] soma = new int[3];
-        string[] decisao = new string[3];
+        
+        int qtd =0;
 
-        for(int i = 0; i < 3; i++)
+
+        Console.Write("Quantidade de Alunos: ");
+        qtd = int.Parse(Console.ReadLine());
+
+        string[] nomes = new string[qtd]; int[] n1 = new int[qtd]; int[] n2 = new int[qtd]; int[] soma = new int[qtd];
+        string[] decisao = new string[qtd];
+
+        for (int i = 0; i < qtd; i++)
         {
             Console.WriteLine("Nome do Aluno: ");
             nomes[i] = Console.ReadLine();
@@ -26,12 +33,14 @@ class Exercicio3
                 decisao[i] = "Reprovado!";
             }
         }
-        
+
         Console.Clear();
 
-        for(int i = 0; i < 3; i++)
+        Console.WriteLine("NOTA DO(S) {0} ALUNO(S)", qtd);
+
+        for (int i = 0; i < qtd; i++)
         {
-            Console.WriteLine("--- NOTA DO ALUNO ---\nAluno: {0}\nMédia do Aluno: {1}\n{2}\n", nomes[i], soma[i], decisao[i]);
+            Console.WriteLine("----------------\nAluno: {0}\nMédia do Aluno: {1}\n{2}\n----------------\n", nomes[i], soma[i], decisao[i]);
         }
     }
 }
