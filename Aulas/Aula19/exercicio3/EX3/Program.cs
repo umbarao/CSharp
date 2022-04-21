@@ -3,23 +3,23 @@ class Exercicio3
 {
     static void Main()
     {
-        string aluno = ""; int n1 = 0, n2 = 0, soma=0;
+        string[] nomes = new string[3]; int[] n1 = new int[3]; int[] n2 = new int[3]; int[] soma = new int[3];
 
         for(int i = 0; i < 3; i++)
         {
             Console.WriteLine("Nome do Aluno: ");
-            aluno = Console.ReadLine();
+            nomes[i] = Console.ReadLine();
             Console.WriteLine("Nota primeiro semestre: ");
-            n1 = int.Parse(Console.ReadLine());
+            n1[i] = int.Parse(Console.ReadLine());
             Console.WriteLine("Nota segundo semestre: ");
-            n2 = int.Parse(Console.ReadLine());
+            n2[i] = int.Parse(Console.ReadLine());
 
-            soma = (n1 + n2) / 2;
+            soma[i] = (n1[i] + n2[i]) / 2;
         }
 
         for(int i = 0; i < 3; i++)
         {
-            Console.WriteLine("Aluno: {0}\nMédia do Aluno: {1}", aluno, soma);
+            Console.WriteLine("--- NOTA DO ALUNO ---\nAluno: {0}\nMédia do Aluno: {1}\n", nomes[i], soma[i]);
         }
     }
 }
