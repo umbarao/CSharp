@@ -1,0 +1,15 @@
+D:\C#\Aulas\Aula19\exercicio3\EX3\bin\Debug\net6.0\EX3.exe
+D:\C#\Aulas\Aula19\exercicio3\EX3\bin\Debug\net6.0\EX3.deps.json
+D:\C#\Aulas\Aula19\exercicio3\EX3\bin\Debug\net6.0\EX3.runtimeconfig.json
+D:\C#\Aulas\Aula19\exercicio3\EX3\bin\Debug\net6.0\EX3.dll
+D:\C#\Aulas\Aula19\exercicio3\EX3\bin\Debug\net6.0\EX3.pdb
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.csproj.AssemblyReference.cache
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.AssemblyInfoInputs.cache
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.AssemblyInfo.cs
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.dll
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\refint\EX3.dll
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.pdb
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\EX3.genruntimeconfig.cache
+D:\C#\Aulas\Aula19\exercicio3\EX3\obj\Debug\net6.0\ref\EX3.dll

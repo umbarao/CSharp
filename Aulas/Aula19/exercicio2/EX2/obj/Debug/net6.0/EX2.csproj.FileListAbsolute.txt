@@ -1,0 +1,15 @@
+D:\C#\Aulas\Aula19\exercicio2\EX2\bin\Debug\net6.0\EX2.exe
+D:\C#\Aulas\Aula19\exercicio2\EX2\bin\Debug\net6.0\EX2.deps.json
+D:\C#\Aulas\Aula19\exercicio2\EX2\bin\Debug\net6.0\EX2.runtimeconfig.json
+D:\C#\Aulas\Aula19\exercicio2\EX2\bin\Debug\net6.0\EX2.dll
+D:\C#\Aulas\Aula19\exercicio2\EX2\bin\Debug\net6.0\EX2.pdb
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.csproj.AssemblyReference.cache
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.AssemblyInfoInputs.cache
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.AssemblyInfo.cs
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.csproj.CoreCompileInputs.cache
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.dll
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\refint\EX2.dll
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.pdb
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\EX2.genruntimeconfig.cache
+D:\C#\Aulas\Aula19\exercicio2\EX2\obj\Debug\net6.0\ref\EX2.dll
