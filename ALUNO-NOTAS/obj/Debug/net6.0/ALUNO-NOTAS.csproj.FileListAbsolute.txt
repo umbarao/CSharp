@@ -1,0 +1,15 @@
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\bin\Debug\net6.0\ALUNO-NOTAS.exe
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\bin\Debug\net6.0\ALUNO-NOTAS.deps.json
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\bin\Debug\net6.0\ALUNO-NOTAS.runtimeconfig.json
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\bin\Debug\net6.0\ALUNO-NOTAS.dll
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\bin\Debug\net6.0\ALUNO-NOTAS.pdb
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.csproj.AssemblyReference.cache
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.AssemblyInfoInputs.cache
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.AssemblyInfo.cs
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.dll
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\refint\ALUNO-NOTAS.dll
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.pdb
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ALUNO-NOTAS.genruntimeconfig.cache
+D:\DIO\.NET\PROJETO1\ALUNO-NOTAS\obj\Debug\net6.0\ref\ALUNO-NOTAS.dll
